@@ -2,7 +2,11 @@ package com.geometry.common.util;
 
 import java.util.Hashtable;
 import java.util.Map;
-
+/**
+ * wgs84转UTM
+ * @author ydx
+ *
+ */
 public class CoordinateConversion {
 
 	public CoordinateConversion() {

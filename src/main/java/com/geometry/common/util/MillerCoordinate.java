@@ -1,5 +1,9 @@
 package com.geometry.common.util;
-
+/**
+ * 米勒投影转换
+ * @author ydx
+ *
+ */
 public class MillerCoordinate {
 	public static double[] MillierConvertion(double lon, double lat) {
 		double L = 6378137 * Math.PI * 2;// 地球周长
