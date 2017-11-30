@@ -19,8 +19,13 @@ public class JTSGeometryUtil {
 	/**
 	 * 创建一个点
 	 * 
+<<<<<<< HEAD
 	 * @param x 纬度
 	 * @param y 经度
+=======
+	 * @param x
+	 * @param y
+>>>>>>> a91da3dbd52c184f4a4bed32826673f2acaf6cde
 	 * @return
 	 */
 	public Point createPoint(double x, double y) {
